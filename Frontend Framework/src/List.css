@@ -1,0 +1,26 @@
+.navbar{
+    display: inline-block;
+    align-items: center;
+    color: rgb(70, 70, 203);
+
+}
+.logo{
+    float: left;
+    font-size: 30px;
+    color: blue;
+    padding-top: 20px;
+    padding-left: 40px;
+}
+.list{
+float: right;
+text-decoration: none;
+font-style: none;
+padding-left: 500px;
+
+}
+
+.list ul li{
+    display: inline-flex;
+    padding: 20px;
+    font-style: none;
+}

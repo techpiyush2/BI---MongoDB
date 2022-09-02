@@ -1,0 +1,165 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&family=Open+Sans:wght@300&family=Poppins:wght@100&display=swap');
+
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+
+body{
+    margin: 0;
+    padding:0 ;
+}
+footer{
+    background-color: #fCD34D;
+    height: 35px;
+    padding-top: 15px;
+}
+
+footer strong{
+    text-align: center;
+    padding-left: 50px;
+
+}
+footer span{
+    text-align: right;
+    padding-left: 900px;
+    word-spacing: 10px;
+    cursor: pointer;
+}
+#buy-now{
+width: 45%;
+float: left;
+padding-left: 50px;
+padding-top: 30px;
+
+}
+#product{
+    width: 40%;
+    float: right;
+}
+#product img{
+    width: 500px;
+    cursor: pointer;
+}
+#buy-now button{
+    color: white;
+    background-color: #fCD34D;
+    border-radius: 15px;
+    border: none;
+    height: 35px;
+    cursor: pointer;
+    font-size: medium;
+    margin-top: 30px;
+    font-weight: 700;
+}
+#div2{
+    width: 100%;
+    display: flex;
+    background-color: #fCD34D;
+    padding-top: 50px;
+}
+#information{
+    color: black;
+    width: 100%;
+    text-align: center;
+}
+#div3 img{
+    width: 200px;
+    cursor: pointer;
+    padding: 10px;
+}
+#div3{
+background-color: #fCD34D;
+display: flex;
+padding-left: 460px;
+padding-bottom:75px;
+}
+#div4{
+    width: 30%;
+    float: left;
+}
+#div4 img{
+    width: 220px;
+    padding-left: 150px;
+    padding-top: 60px;
+}
+#div5{
+    width: 70%;
+    text-align: center;
+    float: right;
+}
+#div5 table{
+    padding-top: 100px;
+    padding-left: 100px;
+}
+#div5 table td{
+    padding-left: 30px;
+    
+}
+#div5 table tr td i{
+    font-size: 30px;
+    color: black;
+}
+#div5 table tr td{
+    padding-top: 20px;
+    
+}
+#div6{
+    text-align: center;
+    padding-top: 75px;
+    padding-bottom: 50px;
+}
+#div7{
+background-color: #fCD34D;
+margin-top: 530px;
+text-align: center;
+word-spacing: 5px;
+}
+#div8{
+    background-color: #fCD34D;
+    font-size: 30px;
+    margin-top: -20px;
+    padding: 10px;
+    text-align: center;
+    word-spacing: 30px;
+    padding: 20px;
+    align-items: center;
+    padding-bottom: 60px;
+}
+#div8 #twitter {
+    color: white;
+    border-radius: 50%;
+    border: 8px solid rgb(9, 98, 206);
+    background-color:rgb(12, 110, 231);
+    cursor: pointer;
+  
+}
+#div8 #facebook {
+    background-color: white;
+    color: navy;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 45px;
+}
+#div8 #youtube {
+    background-color: red;
+    color:white;
+    border-radius: 50%;
+    cursor: pointer;
+    border: 15px solid red;
+    font-size: 20px;
+    
+}
+#div9{
+    background-color: black;
+    color: gray;
+    text-align: center;
+    margin-top: -20px;
+    padding: 2px;
+    padding-bottom: 30px;
+    padding-top: 20px;
+
+}
+#div9 span{
+    text-decoration: underline;
+}

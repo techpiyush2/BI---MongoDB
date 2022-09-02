@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital clock</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <p>Digital clock</p>
+  <div id="clockContainer" class="clock" onload="showTime()"></div>
+  <div id="dateContainer" class="clock2" onload="showSaal()"></div>
+  <div id="start-stop">
+    <button id="stop" oneclick="stopClock()">Stop</button>&nbsp&nbsp&nbsp
+    <button id="start" onclick="startClock()">Start</button>
+  </div>
+    <script src="script.js"></script>
+</body>
+</html>

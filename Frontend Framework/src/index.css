@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&family=Open+Sans:wght@300&family=Poppins:wght@300&display=swap');
+*{
+  padding: 0%;
+  margin: 0%;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 800;
+}
+
+.container1{
+  display: flexbox;
+  text-align: center;
+  align-items: center;
+}
+.header{
+  color: white;
+  background-color: rgb(29, 136, 242);
+}
+.container2{
+  margin-top: 30px;
+}
+.text{
+  margin: 18px;
+  height: 30px;
+}
+.submit{
+  color: white;
+  background-color: rgb(29, 136, 242);
+  height: 40px;
+  width: 160px;
+  border-color:rgb(29, 136, 242) ;
+  border-radius: 4px;
+  margin-bottom: 30px;
+  font-size: medium;
+
+}

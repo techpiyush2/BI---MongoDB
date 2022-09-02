@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&family=Poppins:wght@200;400&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    margin: 0;
+    padding: 100px;
+
+}
+
+#shirt img{
+  
+    width: 250px;
+    border: 1px solid grey;
+   
+}
+#shirt{
+     width: 250px;
+     margin-right: 0px;
+     float: left;
+     padding-left: 100px;
+}
+#list{
+width: 580px;
+float: right;
+padding: 0;
+padding-right: 150px;
+
+}
+#container h3{
+    text-align: center;
+}
+#buy-now{
+    background-color: rgb(14, 110, 201);
+    color: white;
+    border: 0ch;
+    border-radius: 3px;
+    height: 26px;
+}
+#text1{
+  font-weight: 600;
+}
+#text2{
+    text-decoration: line-through;
+    font-size: small;
+}
+#text3{
+    color: green;
+  font-weight: 500;
+
+}
